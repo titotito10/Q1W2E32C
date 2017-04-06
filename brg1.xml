@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<barangkriminal>
+<barangkriminal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="brg1.xsd">
 	<barang>
-		<kode>QA-9345-SW</kode>
+		<kode>QA-9345-AA</kode>
 		<deskripsi>Windows 10 full crack</deskripsi>
 		<harga>5000.500</harga>
 	</barang>
